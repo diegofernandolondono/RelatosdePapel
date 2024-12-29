@@ -1,0 +1,38 @@
+.main-page {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: relative;
+}
+
+.main-page__logo {
+    position: absolute;
+    top: 140px;
+    left: -250px;
+    width: 300px;
+    height: auto;
+    z-index: 1000;
+}
+
+.cart-page__logo {
+    position: absolute;
+    top: 440px;
+    left: 150px;
+    width: 300px;
+    height: auto;
+    z-index: 1000;
+}
+
+.checkout-page__logo {
+    position: absolute;
+    top: 440px;
+    left: 150px;
+    width: 300px;
+    height: auto;
+    z-index: 1000;
+}
+
+.main-page__container {
+    max-width: 1200px;
+    margin: 0 auto;
+}

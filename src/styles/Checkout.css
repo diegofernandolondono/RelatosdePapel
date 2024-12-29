@@ -1,0 +1,56 @@
+.checkout {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.checkout__title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.checkout__button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.checkout__button--cancel {
+    background-color: #ff4444;
+    margin-left: 10px;
+}
+
+.checkout__button--cancel:hover {
+    background-color: #cc0000;
+}
+
+.checkout__form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.checkout__form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+}
+
+.checkout__total {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.checkout__button:hover {
+    background-color: #555;
+}
+
+.checkout__message {
+    font-size: 18px;
+    color: green;
+}

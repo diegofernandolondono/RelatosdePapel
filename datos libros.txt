@@ -1,0 +1,34 @@
+Titulo: 	Storytelling con Datos: Visualizacion de Datos Para Profesionales
+Autor:  	Cole Nussbaumer 
+Editorial:  Anaya Multimedia
+Precio:		$ 139.054
+Reseña:		Storytelling con datos " enseña los fundamentos de la visualización de datos para poder comunicar eficazmente con 
+ellos. Aunque este libro está basado en la teoría, utiliza multitud de ejemplos del mundo real para que las pueda aplicar de forma inmediata en su siguiente gráfico o presentación.
+
+Titulo:		Algoritmos. Guía Ilustrada Para Programadores y Curiosos
+Autor:		Aditya Y. Bhargava
+Editorial:	Anaya Multimedia
+Precio:		$ 153.310
+Reseña:		Un algoritmo no es más que un procedimiento paso a paso para resolver un problema. Los algoritmos que se utilizan 
+más a menudo en programación ya han sido descubiertos, probados y demostrados.
+
+Titulo:		Fundamentos de Programacion
+Autor:		Luis Joyanes Aguilar
+Editorial:	Mcgraw-Hill
+Precio:		$ 133.000
+Reseña:		Esta obra considera que un estudiante de ingeniería informática o de ingeniería de sistemas requiere no solo el 
+aprendizaje clásico del diseño de algoritmos y la comprensión de las técnicas orientadas a objetos, sino un método de transición hacia las tecnologías disruptivas de la Industria 4.0 y la Cuarta Revolución Industrial. 
+
+Titulo:		Patrones de Diseño
+Autor:		Erich Gamma
+Editorial:	Addison Wesley
+Precio:		$ 229.597
+Reseña:		Este libro no trata de una introducción a la tecnología orientada a objetos ni al diseño orientado a objetos. Ya 
+hay muchos libros que sirven bien a ese propósito.Por otro lado, tampoco es éste un avanzado tratado técnico.Es un libro de patrones de diseño que describe soluciones simples y elegantes para problemas específicos del diseño de software orientado a objetos.
+
+Titulo:		Ultimate Python: De Cero a Experto: Un Libro Para Principiantes Fácil de Seguir
+Autor:		Nicolas Schurmann
+Editorial:	Independently Published
+Precio:		$ 153.129
+Reseña:		Aprender a programar es una herramienta necesaria el dia de hoy, ya sea para poder construir aplicaciones web hasta 
+			crear la mas avanzada inteligencia artificial. Y puede ser sumamente desafiante si no se tiene la guia correcta.		

@@ -1,0 +1,30 @@
+.cart {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+.cart__title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.cart__text {
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+.cart__link {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.cart__link:hover {
+    background-color: #555;
+}

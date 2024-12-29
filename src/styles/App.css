@@ -1,0 +1,12 @@
+.app {
+    font-family: 'Georgia', sans-serif;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+.app__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-left: 240px; /* Ajusta el margen según el tamaño del logo */
+}
